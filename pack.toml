@@ -1,0 +1,13 @@
+name = "CGN-Simulated"
+author = "Svemat"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "66e95ffc0df7bb9bfef892775874269a55113306b05ee700e71cb1ec0f686007"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
