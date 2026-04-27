@@ -36,6 +36,11 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
 metafile = true
