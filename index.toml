@@ -220,11 +220,6 @@ hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
 
 [[files]]
-file = "mods/create-train-parts.pw.toml"
-hash = "5fac2471c694e4bf9c847106cc3e86408859b63d050e7d86603ba20a8ba4698c"
-metafile = true
-
-[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "626f08493ba89cfc07ec5329d5bd642488f2f09299ec9651d0da71480cd991ef"
 metafile = true
