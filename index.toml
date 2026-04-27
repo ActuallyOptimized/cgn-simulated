@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e71ecdc77d6b1ca63e8d02b64a2eb27c3f148a3e4b890d466b62d0b35c4f4dde"
-
-[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
 metafile = true
@@ -18,6 +14,10 @@ metafile = true
 file = "mods/cc-tweaked.pw.toml"
 hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.4+mc.1.21.1-neoforge-build.280.jar"
+hash = "ef855fe15b3945c52cc5ce0e29036ee517ee2d709237b40709582f85214baead"
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
@@ -58,6 +58,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5.11.3-dev+mc.1.21.1-build.286.jar"
+hash = "2308063ba1d9b95a14b995ba170f1ea7dea176de31975e66729beab2e3d63748"
 
 [[files]]
 file = "mods/emi.pw.toml"
