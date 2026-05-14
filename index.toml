@@ -205,6 +205,11 @@ hash = "e659ecdb50994668bf743103921430f12c77095f962555a1a37b2dc124fb9d44"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
+metafile = true
+
+[[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
@@ -464,8 +469,18 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/personality!.pw.toml"
+hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
