@@ -299,6 +299,16 @@ hash = "edaeca13686caeda3d9344ef2ea74f9c25fc05dfdf713a7d95cae733ed3ee2ba"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-wire-sable.pw.toml"
+hash = "e7e2ab6ae7389062a2d1b733a0a5bfa59932a07c533110a8fd83e5bd89cf996b"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wiretypewriter.pw.toml"
+hash = "73154a8b7911515c375d3905cbd60076ef0791d41da2c40a834993cc277ee160"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
